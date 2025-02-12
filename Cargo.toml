@@ -1,5 +1,5 @@
 [package]
-name = "one_brc_rust"
+name = "one-brc-rust"
 version = "0.1.0"
 edition = "2021"
 
