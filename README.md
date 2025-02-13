@@ -3,9 +3,9 @@
 
 ### Run program
 ```bash
-cargo run --releases <measurement-file-location>
+cargo run --release <measurement-file-location>
 ```
 ### Run program in single thread
 ```bash
-cargo run --releases <measurement-file-location> --single
+cargo run --release <measurement-file-location> --single
 ```
